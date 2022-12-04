@@ -1,0 +1,109 @@
+{
+	"dishes": [
+		{
+			"name": "Broodjes",
+			"description": "Iure enim ut omnis eveniet quis.",
+			"products": [
+				{
+					"name": "Consequatur eveniet assumenda itaque beatae",
+					"description": "Quod enim dicta.",
+					"price": "2.84"
+				},
+				{
+					"name": "Quas eius laborum voluptas deleniti",
+					"description": "Dolorem ipsa.",
+					"price": "2.69"
+				},
+				{
+					"name": "Fugit qui sapiente dicta aut",
+					"description": "Consectetur quos.",
+					"price": "1.72"
+				},
+				{
+					"name": "Deleniti dolorem eveniet error illo",
+					"description": "Repellat molestiae.",
+					"price": "1.70"
+				}
+			]
+		},
+		{
+			"name": "Salades en koude voorgerechten",
+			"description": "Aut aspernatur nulla quia et nihil est.",
+			"products": [
+				{
+					"name": "Nihil beatae ea qui fugiat",
+					"description": "Consequuntur qui.",
+					"price": "2.3"
+				},
+				{
+					"name": "Iusto saepe est ea voluptates",
+					"description": "Dolorum doloremque.",
+					"price": "2.44"
+				},
+				{
+					"name": "Dolorem qui exercitationem sequi aut",
+					"description": "Nostrum error.",
+					"price": "2.78"
+				}
+			]
+		},
+		{
+			"name": "Kleine warme gerechten",
+			"description": "Suscipit placeat et explicabo.",
+			"products": [
+				{
+					"name": "Et dolores dolorem aliquam pariatur",
+					"description": "Suscipit architecto.",
+					"price": "2.52"
+				},
+				{
+					"name": "Commodi dolores fuga delectus quam",
+					"description": "Veritatis sequi aut.",
+					"price": "2.23"
+				},
+				{
+					"name": "Vel et doloribus culpa aut",
+					"description": "Vero error quas.",
+					"price": "1.27"
+				},
+				{
+					"name": "Consequatur non eaque omnis nihil",
+					"description": "Repellendus nihil.",
+					"price": "1.31"
+				}
+			]
+		},
+		{
+			"name": "Schotels",
+			"description": "Voluptate qui delectus facere.",
+			"products": [
+				{
+					"name": "Ea consequatur nostrum consequatur omnis",
+					"description": "Sint quibusdam quae.",
+					"price": "2.21"
+				},
+				{
+					"name": "Nulla laborum aliquid enim nesciunt",
+					"description": "Itaque quisquam.",
+					"price": "2.98"
+				}
+			]
+		},
+		{
+			"name": "Grote schotels",
+			"description": "Nulla totam et libero quis.",
+			"products": [
+				{
+					"name": "Harum dolorem cum perspiciatis odio",
+					"description": "Ratione omnis eaque.",
+					"price": "1.91"
+				},
+				{
+					"name": "Qui ratione earum et dolorem",
+					"description": "Accusamus itaque.",
+					"price": "2.18"
+				}
+			]
+		}
+	]
+}
