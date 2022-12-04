@@ -3,14 +3,21 @@
 ## Installation
 
 - ```console
-      npm install
+  git clone git@github.com:nniculae/ros-front.git
   ```
-
 - ```console
-      npm run start-db
+  cd ros-front
   ```
-
+- ```console
+  npm install
+  ```
+- ```console
+  npm run start-db
+  ```
+- ```console
+  npm run dev -- --open
+  ```
 - Go to:
   ```console
-      http://localhost:5173/
+  http://localhost:5173/
   ```
